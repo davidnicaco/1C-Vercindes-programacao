@@ -28,3 +28,10 @@ font-size: 25%;}
 .beneficios{background-color: white
 	text-align: left;
 font-size: 25%;}
+
+ ul:{
+	display: inline-block;
+	vertical-align:top;
+	margin: 3%;
+	list-style: none;
+ }
