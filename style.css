@@ -23,7 +23,8 @@ em strong {
 }
 
 .itens{font-style: italic;
-font-size: 10%;}
+font-size: 25%;}
 
 .beneficios{background-color: white
-	text-align: left;}
+	text-align: left;
+font-size: 25%;}
